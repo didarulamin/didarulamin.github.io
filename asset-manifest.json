@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b06cb603.chunk.css",
-    "main.js": "/static/js/main.60518d64.chunk.js",
-    "main.js.map": "/static/js/main.60518d64.chunk.js.map",
+    "main.css": "/static/css/main.0aba5baf.chunk.css",
+    "main.js": "/static/js/main.2a809df8.chunk.js",
+    "main.js.map": "/static/js/main.2a809df8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8ec3e8d8.js",
     "runtime-main.js.map": "/static/js/runtime-main.8ec3e8d8.js.map",
-    "static/js/2.d796eafe.chunk.js": "/static/js/2.d796eafe.chunk.js",
-    "static/js/2.d796eafe.chunk.js.map": "/static/js/2.d796eafe.chunk.js.map",
+    "static/js/2.1cad3d8f.chunk.js": "/static/js/2.1cad3d8f.chunk.js",
+    "static/js/2.1cad3d8f.chunk.js.map": "/static/js/2.1cad3d8f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2b0e70147f5b6e6e8bf4caf11dadb08d.js": "/precache-manifest.2b0e70147f5b6e6e8bf4caf11dadb08d.js",
+    "precache-manifest.cba1a3abc5a85cb2b541b8efcaba279a.js": "/precache-manifest.cba1a3abc5a85cb2b541b8efcaba279a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b06cb603.chunk.css.map": "/static/css/main.b06cb603.chunk.css.map",
+    "static/css/main.0aba5baf.chunk.css.map": "/static/css/main.0aba5baf.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.be4f4800.png",
@@ -29,7 +29,6 @@
     "static/media/feelingProud.svg": "/static/media/feelingProud.2936ce95.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.fce60807.svg",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
-    "static/media/github_logo.png": "/static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.a6addc3f.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d3fccbe1.png",
@@ -51,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8ec3e8d8.js",
-    "static/js/2.d796eafe.chunk.js",
-    "static/css/main.b06cb603.chunk.css",
-    "static/js/main.60518d64.chunk.js"
+    "static/js/2.1cad3d8f.chunk.js",
+    "static/css/main.0aba5baf.chunk.css",
+    "static/js/main.2a809df8.chunk.js"
   ]
 }
